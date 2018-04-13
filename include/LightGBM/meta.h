@@ -1,5 +1,5 @@
 #ifndef LIGHTGBM_META_H_
-#define LIGHTGBM_META_H_
+#define LIGHTGBM_META_H_//防止头文件引用重复
 
 #include <cstdint>
 
